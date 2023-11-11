@@ -11,4 +11,5 @@ package ec.edu.espol.pruebagithub;
  */
 public class ClaseNueva {
     private int val;
+    private String nuebo;
 }
